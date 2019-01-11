@@ -1,0 +1,671 @@
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Font fnt_health has been converted to font family Cambria (Bold) - Font has been regenerated, small inconsistencies may occur
+Font fnt_HUD has been converted to font family Arial (Bold) - Font has been regenerated, small inconsistencies may occur
+Font fnt_hudbar has been converted to font family Arial (Bold) - Font has been regenerated, small inconsistencies may occur
+Font fnt_planet has been converted to font family Arial (Bold) - Font has been regenerated, small inconsistencies may occur
+Font fnt_headers has been converted to font family Consolas (Bold) - Font has been regenerated, small inconsistencies may occur
+Font fnt_text has been converted to font family Consolas (Regular) - Font has been regenerated, small inconsistencies may occur
+Font fnt_levels has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Font fnt_objective has been converted to font family Calibri (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\timelines\tl_earthout\moment_0.gml
+Converted description /// @description Resize
+
+Converting GML script: ${project_dir}\timelines\tl_earthout\moment_20.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\timelines\tl_earthin\moment_0.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\timelines\tl_earthin\moment_82.gml
+Converted description /// @description Resize
+
+Converting GML script: ${project_dir}\timelines\tl_vopraout\moment_0.gml
+Converted description /// @description Resize
+
+Converting GML script: ${project_dir}\timelines\tl_vopraout\moment_20.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\timelines\tl_voprain\moment_0.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\timelines\tl_voprain\moment_80.gml
+Converted description /// @description Resize
+
+Converting GML script: ${project_dir}\timelines\tl_caliaout\moment_0.gml
+Converted description /// @description Resize
+
+Converting GML script: ${project_dir}\timelines\tl_caliaout\moment_20.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\timelines\tl_caliain\moment_0.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\timelines\tl_caliain\moment_82.gml
+Converted description /// @description Resize
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene1\moment_0.gml
+Converted description /// @description Audio Activator
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene1\moment_1480.gml
+Converted description /// @description Transition
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene1_2\moment_0.gml
+Converted description /// @description Sound Activator
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene1_2\moment_2150.gml
+Converted description /// @description Cutscene Ender
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene2_1\moment_0.gml
+Converted description /// @description Audio Activator
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene2_1\moment_125.gml
+Converted description /// @description Transition
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene2_2\moment_0.gml
+Converted description /// @description Audio Activator
+
+Converting GML script: ${project_dir}\timelines\tl_cutscene2_2\moment_750.gml
+Converted description /// @description Transition
+
+Converting GML script: ${project_dir}\timelines\tl_m2_1\moment_0.gml
+Converted description /// @description Cutscene Activation
+
+Converting GML script: ${project_dir}\timelines\tl_m2_1\moment_330.gml
+Converted description /// @description Room Change
+
+Converting GML script: ${project_dir}\timelines\tl_m2_2\moment_0.gml
+Converted description /// @description Cutscene Activator
+
+Converting GML script: ${project_dir}\timelines\tl_m2_2\moment_100.gml
+Converted description /// @description Transition
+
+Converting GML script: ${project_dir}\timelines\tl_m2_3\moment_0.gml
+Converted description /// @description Cutscene Activation
+
+Converting GML script: ${project_dir}\timelines\tl_m2_3\moment_110.gml
+Converted description /// @description Transition
+
+Converting GML script: ${project_dir}\objects\obj_char\Create_0.gml
+Converted description /// @description Movement Engine - Vars
+
+Converting GML script: ${project_dir}\objects\obj_char\Alarm_0.gml
+Converted description /// @description Delay Boost
+
+Converting GML script: ${project_dir}\objects\obj_char\Step_0.gml
+Converted description /// @description Movement Engine & Shooting
+Converted string - line 4: 'D' -> "D"
+Converted string - line 4: 'A' -> "A"
+Converted string - line 5: 'S' -> "S"
+Converted string - line 5: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\obj_char\Collision_7d5c36f9-465a-4f6a-b870-d37733ab77a2.gml
+Converted description /// @description Portal Handler
+
+Converting GML script: ${project_dir}\objects\obj_char\Draw_0.gml
+Converted description /// @description Movement Engine - Sprite Changing
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_56.gml
+Converted description /// @description Teleporting - Ocreon
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_55.gml
+Converted description /// @description Teleporting - Asprion
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_54.gml
+Converted description /// @description Teleport - Gerus
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_53.gml
+Converted description /// @description Teleporting - Zeria
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_52.gml
+Converted description /// @description Teleporting - Calia
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_51.gml
+Converted description /// @description Teleporting - Oprone
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_50.gml
+Converted description /// @description Teleporting - Vopra
+
+Converting GML script: ${project_dir}\objects\obj_char\KeyPress_49.gml
+Converted description /// @description Teleport - Earth
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\Alarm_0.gml
+Converted description /// @description Delay Boost
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\Step_0.gml
+Converted description /// @description Movement Engine & Shooting
+Converted string - line 4: 'D' -> "D"
+Converted string - line 4: 'A' -> "A"
+Converted string - line 5: 'S' -> "S"
+Converted string - line 5: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\Collision_70d6a2d0-522f-4f47-a0a6-fa24c1669e69.gml
+Converted description /// @description Portal Handler
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\Draw_0.gml
+Converted description /// @description Movement Engine - Sprite Changing
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_56.gml
+Converted description /// @description Teleporting - Ocreon
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_55.gml
+Converted description /// @description Teleporting - Asprion
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_54.gml
+Converted description /// @description Teleport - Gerus
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_53.gml
+Converted description /// @description Teleporting - Zeria
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_52.gml
+Converted description /// @description Teleporting - Calia
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_51.gml
+Converted description /// @description Teleporting - Oprone
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_50.gml
+Converted description /// @description Teleporting - Vopra
+
+Converting GML script: ${project_dir}\objects\obj_char_boss1\KeyPress_49.gml
+Converted description /// @description Teleport - Earth
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description GamePad Variables
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted description /// @description Movement Engine & Shooting
+Converted string - line 3: 'W' -> "W"
+Converted string - line 7: 'A' -> "A"
+Converted string - line 11: 'S' -> "S"
+Converted string - line 15: 'D' -> "D"
+
+Converting GML script: ${project_dir}\objects\obj_player\Collision_e979427d-a9c0-4654-9965-dfd8e48b9ab4.gml
+Converted description /// @description Access Handler
+
+Converting GML script: ${project_dir}\objects\obj_hostile_1\Create_0.gml
+Converted description /// @description Vars
+
+Converting GML script: ${project_dir}\objects\obj_hostile_1\Step_0.gml
+Converted description /// @description Main Handler
+
+Converting GML script: ${project_dir}\objects\obj_hostile_1\Draw_0.gml
+Converted description /// @description Health Bar
+
+Converting GML script: ${project_dir}\objects\obj_hostile_2\Step_0.gml
+Converted description /// @description Main Handler
+
+Converting GML script: ${project_dir}\objects\obj_hostile_2\Draw_0.gml
+Converted description /// @description Health Bar
+
+Converting GML script: ${project_dir}\objects\obj_boss1\Step_0.gml
+Converted description /// @description Main Handler
+
+Converting GML script: ${project_dir}\objects\obj_drlane_1\Step_0.gml
+Converted description /// @description Mission Activator
+
+Converting GML script: ${project_dir}\objects\obj_drlane_2\Step_0.gml
+Converted description /// @description Mission Activator
+
+Converting GML script: ${project_dir}\objects\obj_Earth\Step_0.gml
+Converted description /// @description Rotation Animation
+
+Converting GML script: ${project_dir}\objects\obj_Earth\Collision_238ea30e-d9f6-49c8-8078-57fb41fab78c.gml
+Converted description /// @description Entering Planet
+
+Converting GML script: ${project_dir}\objects\obj_vopra\Step_0.gml
+Converted description /// @description Rotation Animation
+
+Converting GML script: ${project_dir}\objects\obj_vopra\Collision_131686b9-63e7-4230-a8ef-eb63d0853f01.gml
+Converted description /// @description Vopra Collision With Player
+
+Converting GML script: ${project_dir}\objects\obj_calia\Create_0.gml
+Converted description /// @description Rotation Animation
+
+Converting GML script: ${project_dir}\objects\obj_calia\Collision_15eaadf8-dff8-4ed7-807a-17e2f2790614.gml
+Converted description /// @description Entering Planet
+
+Converting GML script: ${project_dir}\objects\obj_oprone\Collision_53603830-5085-4fc8-9495-f8ab4cc5a9af.gml
+Converted description /// @description Oprone Collision With Player
+
+Converting GML script: ${project_dir}\objects\obj_zeria\Create_0.gml
+Converted description /// @description Rotation Animation
+
+Converting GML script: ${project_dir}\objects\obj_gerus\Create_0.gml
+Converted description /// @description Rotation Animation
+
+Converting GML script: ${project_dir}\objects\obj_asprion\Create_0.gml
+Converted description /// @description Rotation Animation
+
+Converting GML script: ${project_dir}\objects\obj_ocreon\Create_0.gml
+Converted description /// @description Rotation Animation
+
+Converting GML script: ${project_dir}\objects\obj_ach_back\Step_0.gml
+Converted description /// @description Changing Sprite
+
+Converting GML script: ${project_dir}\objects\obj_ach_next\Step_0.gml
+Converted description /// @description Changing Sprite
+
+Converting GML script: ${project_dir}\objects\obj_mana\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\obj_mana\Collision_de480c64-a0f0-4375-b834-baf6f17bd2e9.gml
+Converted description /// @description Collision
+
+Converting GML script: ${project_dir}\objects\obj_chest_closed\Step_0.gml
+Converted description /// @description Chests - Sprite Change
+
+Converting GML script: ${project_dir}\objects\obj_chest_opening\Other_7.gml
+Converted description /// @description Animation End
+
+Converting GML script: ${project_dir}\objects\obj_chest_opened\Create_0.gml
+Converted description /// @description Loot Vars
+
+Converting GML script: ${project_dir}\objects\obj_chest_opened\Step_0.gml
+Converted description /// @description Loot - FINISH
+
+Converting GML script: ${project_dir}\objects\obj_chest_opened\Draw_0.gml
+Converted description /// @description Loot Text
+
+Converting GML script: ${project_dir}\objects\obj_health\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\obj_health\Collision_08e0f2a5-db61-441e-9539-cd9d25738354.gml
+Converted description /// @description Collision
+
+Converting GML script: ${project_dir}\objects\obj_spacecoin\Collision_dbf518a7-3d87-488b-8a7f-9decb5f30c53.gml
+Converted description /// @description Collection
+
+Converting GML script: ${project_dir}\objects\obj_tree\Step_0.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\objects\obj_asteroid2\Draw_0.gml
+Converted description /// @description Level
+
+Converting GML script: ${project_dir}\objects\obj_asteroid3\Draw_0.gml
+Converted description /// @description Level
+
+Converting GML script: ${project_dir}\objects\obj_enemybullet\Collision_1ddcbea3-8eb8-4512-8541-9f6bd40a3587.gml
+Converted description /// @description Collision
+
+Converting GML script: ${project_dir}\objects\obj_ship_earthout\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\obj_ship_earthin\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\obj_ship_vopraout\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\obj_ship_voprain\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\obj_ship_caliaout\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\obj_ship_caliain\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\obj_ship_credits\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\obj_ship_credits\Step_0.gml
+Converted description /// @description Shooting
+
+Converting GML script: ${project_dir}\objects\obj_lt_openspace\Collision_d9ad7f09-6edd-4900-a781-0ab3805c353e.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_earthsector\Collision_3d0d7103-0789-450f-8a99-a156ed3a31a7.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_opronesector\Collision_225f4fda-532e-4f5b-8844-9c024da9c9aa.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_voprasector\Collision_c3605a48-976d-4881-b4a2-72a6f55fd866.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_caliasector\Collision_aa30d781-16bc-435c-bcf2-3fdd7f7f3cfa.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_zeriasector\Collision_3039b935-9846-4a53-a3d6-b722bd10639d.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_gerussector\Collision_7287e153-6b3c-4481-97b8-ec09950c90f5.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_asprionsector\Collision_eada3f26-2e4f-45bc-84da-d012fe55dab0.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\obj_lt_ocreonsector\Collision_12826479-327d-403c-8532-baeb58a85363.gml
+Converted description /// @description Location Var
+
+Converting GML script: ${project_dir}\objects\cave_entrance1\Collision_75c063ef-2bf3-47a9-ba48-92e668caecf1.gml
+Converted description /// @description Room Change
+
+Converting GML script: ${project_dir}\objects\waterfall_middle\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\waterfall_bottom\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\waterfall_top\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\water_tile\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\shop_earth\Step_0.gml
+Converted description /// @description shop Activator
+
+Converting GML script: ${project_dir}\objects\earth_cave_exit\Collision_bff75d55-ff2e-469b-99b6-a0ba3b3a7a6a.gml
+Converted description /// @description Room Change
+
+Converting GML script: ${project_dir}\objects\ach001\Create_0.gml
+Converted description /// @description Alarm
+
+Converting GML script: ${project_dir}\objects\ach001\Alarm_0.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\objects\cutscene1_fadeout\Create_0.gml
+Converted description /// @description Image Alpha
+
+Converting GML script: ${project_dir}\objects\cutscene1_fadeout\Step_0.gml
+Converted description /// @description Timeline Ender
+
+Converting GML script: ${project_dir}\objects\obj_wolfmask\Step_0.gml
+Converted description /// @description Rotation
+
+Converting GML script: ${project_dir}\objects\obj_earth3text\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\mega_var\Create_0.gml
+Converted description /// @description General
+
+Converting GML script: ${project_dir}\objects\skill_popups\Create_0.gml
+Converted description /// @description Fade Vars
+
+Converting GML script: ${project_dir}\objects\skill_popups\Step_0.gml
+Converted description /// @description Levelup Popups
+
+Converting GML script: ${project_dir}\objects\skill_popups\Draw_0.gml
+Converted description /// @description Levelup Popups
+
+Converting GML script: ${project_dir}\objects\gp_pause\Step_0.gml
+Converted string - line 19: 'W' -> "W"
+Converted string - line 23: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_pause_boss1\Step_0.gml
+Converted string - line 19: 'W' -> "W"
+Converted string - line 23: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_pauseearth\Step_0.gml
+Converted string - line 19: 'W' -> "W"
+Converted string - line 23: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_menu\Create_0.gml
+Converted description /// @description Timer Var
+
+Converting GML script: ${project_dir}\objects\gp_menu\Step_0.gml
+Converted string - line 18: 'W' -> "W"
+Converted string - line 22: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_explore\Step_0.gml
+Converted string - line 10: 'W' -> "W"
+Converted string - line 14: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_map\Step_0.gml
+Converted description /// @description Activator
+
+Converting GML script: ${project_dir}\objects\gp_earth\Step_0.gml
+Converted string - line 17: 'W' -> "W"
+Converted string - line 21: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_mission2_choice\Step_0.gml
+Converted description /// @description Selection
+Converted string - line 18: 'D' -> "D"
+Converted string - line 22: 'A' -> "A"
+
+Converting GML script: ${project_dir}\objects\gp_shopearth\Step_0.gml
+Converted string - line 17: 'W' -> "W"
+Converted string - line 21: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_tradeinsearth\Step_0.gml
+Converted string - line 17: 'W' -> "W"
+Converted string - line 21: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_shopvopra\Step_0.gml
+Converted string - line 17: 'W' -> "W"
+Converted string - line 21: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\gp_tradeinsvopra\Step_0.gml
+Converted string - line 17: 'W' -> "W"
+Converted string - line 21: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\obj_menucontroller\Step_0.gml
+Converted description /// @description Credits Menu - DEBUG
+Converted string - line 2: 'H' -> "H"
+
+Converting GML script: ${project_dir}\objects\obj_HUDcontroller\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\obj_HUDcontroller\Step_0.gml
+Converted description /// @description Player Health to Percent
+
+Converting GML script: ${project_dir}\objects\obj_HUDcontroller\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 25: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 31: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 34: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 37: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 40: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 43: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 46: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 49: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 52: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 55: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 58: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 61: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 65: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 68: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 70: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 73: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 76: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 82: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 85: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 88: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 95: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 97: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 100: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 103: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 25: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 31: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 34: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 37: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 40: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 43: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 46: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 49: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 52: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 55: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 58: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 61: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 65: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 68: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 70: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 73: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 76: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 79: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 82: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 85: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 88: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 95: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 97: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 100: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 103: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Main HUD
+
+Converting GML script: ${project_dir}\objects\obj_mapcontroller\Step_0.gml
+Converted description /// @description Map Activator
+
+Converting GML script: ${project_dir}\objects\altpause_controller\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\altpause_controller\Step_0.gml
+Converted description /// @description Defining the Variables
+
+Converting GML script: ${project_dir}\objects\altpause_controller\Draw_0.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\objects\altpause_earth\Create_0.gml
+Converted description /// @description Animation Speed
+
+Converting GML script: ${project_dir}\objects\altpause_earth\Step_0.gml
+Converted description /// @description Defining the Variables
+
+Converting GML script: ${project_dir}\objects\altpause_earth\Draw_0.gml
+Converted description /// @description Main
+
+Converting GML script: ${project_dir}\objects\earthcontroller\Step_0.gml
+Converted description /// @description Skills & XP - Woodcutting
+
+Converting GML script: ${project_dir}\objects\earthcontroller\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Skills & XP
+
+Converting GML script: ${project_dir}\objects\credits_controller\Draw_0.gml
+Converted description /// @description Cutscene Headers
+
+Converting GML script: ${project_dir}\objects\cutscene1_1_tl\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\cutscene1_1_tl\Step_0.gml
+Converted description /// @description Skip Cutscene
+
+Converting GML script: ${project_dir}\objects\cutscene1_2_tl\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\cutscene1_2_tl\Step_0.gml
+Converted description /// @description Skip Cutscene
+
+Converting GML script: ${project_dir}\objects\cutscene2_1_tl\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\cutscene2_1_tl\Step_0.gml
+Converted description /// @description Skip Cutscene
+
+Converting GML script: ${project_dir}\objects\cutscene2_2_tl\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\cutscene2_2_tl\Step_0.gml
+Converted description /// @description Skip Cutscene
+
+Converting GML script: ${project_dir}\objects\cutscene_m2_1_tl\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\cutscene_m2_1_tl\Step_0.gml
+Converted description /// @description Skip Cutscene
+
+Converting GML script: ${project_dir}\objects\cutscene_m2_2_tl\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\cutscene_m2_2_tl\Step_0.gml
+Converted description /// @description Skip Cutscene
+
+Converting GML script: ${project_dir}\objects\cutscene_m2_3_tl\Create_0.gml
+Converted description /// @description Cutscene Activater
+
+Converting GML script: ${project_dir}\objects\cutscene_m2_3_tl\Step_0.gml
+Converted description /// @description Skip Cutscene
+
+Converting GML script: ${project_dir}\objects\cutscene_controller\Step_0.gml
+Converted description /// @description Cutscene Activator
+
+Converting GML script: ${project_dir}\objects\mission_completion\Create_0.gml
+Converted description /// @description Fade Vars
+
+Converting GML script: ${project_dir}\objects\mission_completion\Step_0.gml
+Converted description /// @description Mission 2
+
+Converting GML script: ${project_dir}\objects\mission_completion\Draw_0.gml
+Converted description /// @description Rewards
+
+Converting GML script: ${project_dir}\objects\boss1_healthbar\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\quest_earth\Step_0.gml
+Converted description /// @description Quest Progression
+
+Converting GML script: ${project_dir}\objects\quest_earth\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Objective
+
+Converting GML script: ${project_dir}\objects\game_saver\Step_0.gml
+Converted description /// @description Forceful Saving
+
+Missing audiogroup for sound: 'snd_select' - setting to default audio group
+Missing audiogroup for sound: 'snd_theme' - setting to default audio group
+Missing audiogroup for sound: 'snd_space' - setting to default audio group
+Missing audiogroup for sound: 'snd_teleporting' - setting to default audio group
+Missing audiogroup for sound: 'snd_laser' - setting to default audio group
+Missing audiogroup for sound: 'snd_booster' - setting to default audio group
+Missing audiogroup for sound: 'cutscene1_1' - setting to default audio group
+Missing audiogroup for sound: 'cutscene1_2' - setting to default audio group
+Missing audiogroup for sound: 'cutscene2_1' - setting to default audio group
+Missing audiogroup for sound: 'cutscene2_2' - setting to default audio group
+Missing audiogroup for sound: 'mission2_1' - setting to default audio group
+Missing audiogroup for sound: 'mission2_2' - setting to default audio group
+Missing audiogroup for sound: 'mission2_3' - setting to default audio group
+Missing audiogroup for sound: 'mission3_1' - setting to default audio group
+Missing audiogroup for sound: 'mission3_2' - setting to default audio group
+Missing audiogroup for sound: 'mission3_3' - setting to default audio group
+Missing audiogroup for sound: 'mission3_4' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

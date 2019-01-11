@@ -1,0 +1,44 @@
+ini_open("save.ini");
+//VARIABLES
+//Character Position
+ini_write_real("Config","positionx",obj_char.x)
+ini_write_real("Config","positiony",obj_char.y)
+//Skills
+ini_write_real("Player","combatlevel",global.combat);
+ini_write_real("Player","combatxp",global.combatxp);
+ini_write_real("Player","teleportinglevel",global.teleporting);
+ini_write_real("Player","teleportingxp",global.teleportingxp);
+ini_write_real("Player","harvestinglevel",global.harvesting);
+ini_write_real("Player","harvestingxp",global.harvestingxp);
+ini_write_real("Player","harvestingmax",global.harvestingmax);
+ini_write_real("Player","teleportingmax",global.teleportingmax);
+ini_write_real("Player","combatmax",global.combatmax);
+ini_write_real("Player_Earth","woodcuttingearthLevel",global.woodcuttingearth);
+ini_write_real("Player_Earth","woodcuttingearthxp",global.woodcuttingearthxp);
+//Stats
+ini_write_real("Player","timesharvested",global.harvests);
+ini_write_real("Player","timesteleported",global.teleports);
+ini_write_real("Player","timesdied",global.deaths);
+ini_write_real("Player","kills",global.kills);
+//Currencies
+ini_write_real("Player","fragements",global.frags);
+ini_write_real("Player","asteroidshards",global.asteroids);
+ini_write_real("Player","spacecoins",global.spacecoins);
+//Health & Mana
+ini_write_real("Player","health",global.playerhealth);
+ini_write_real("Player","mana",global.mana);
+//New Game Check
+ini_write_real("Game","newgame",global.newgame);
+//Achievements
+ini_write_real("Achievements","ach001",global.ach0001);
+ini_write_real("Achievements","ach002",global.ach002);
+ini_write_real("Achievements","ach003",global.ach003);
+ini_write_real("Achievements","ach004",global.ach004);
+ini_write_real("Achievements","ach005",global.ach005);
+ini_write_real("Achievements","ach006",global.ach006);
+ini_write_real("Achievements","ach007",global.ach007);
+ini_write_real("Achievements","ach008",global.ach008);
+ini_write_real("Achievements","ach009",global.ach009);
+ini_write_real("Achievements","ach010",global.ach010);
+ini_write_real("Achievements","ach011",global.ach011);
+ini_close();

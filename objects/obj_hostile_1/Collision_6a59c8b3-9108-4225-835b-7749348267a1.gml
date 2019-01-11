@@ -1,0 +1,2 @@
+noidhealth -= 1000;
+
